@@ -1,0 +1,6 @@
+node_modules/
+.env
+data/
+dump/
+public/uploads/*.jpg
+public/uploads/*.jpeg
